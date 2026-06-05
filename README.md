@@ -6,7 +6,7 @@ FridTerm is a macOS terminal app with a flexible drag-and-drop grid, instant the
 
 ## Download
 
-**[Download FridTerm v1.0 for macOS](https://github.com/cchen140/FridTerm/releases/download/v1.0/FridTerm-v1.0-20260315.dmg)**
+**[Download FridTerm v1.3 for macOS](https://github.com/cchen140/FridTerm/releases/download/v1.3/FridTerm-v1.3-20260602.dmg)**
 
 Have a feature request or workflow problem you want solved? [Tell me here.](https://fridterm.com/ask)
 
